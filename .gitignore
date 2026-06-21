@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+
+# Rider
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# ASP.NET
+wwwroot/lib/
+appsettings.Development.json

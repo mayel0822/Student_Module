@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "BookHive",
+      "runtimeExecutable": "dotnet",
+      "runtimeArgs": ["run", "--project", "BookHiveDashBoard.csproj"],
+      "port": 5129,
+      "autoPort": false
+    }
+  ]
+}
