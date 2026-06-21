@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BookHiveDashBoard.Pages
+namespace BookHiveStudentModule.Pages
 {
     public class BookItem
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace BookHiveDashBoard.Pages
+namespace BookHiveStudentModule.Pages
 {
     public class PrivacyModel : PageModel
     {
